@@ -14,7 +14,7 @@ Skills: BOOTSTRAP / / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Front-end Development
+- 🌱 I’m currently learning, Front-end Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/asaduzzaman-ashik](https://github.com/asaduzzaman-ashik)
 
